@@ -1,6 +1,6 @@
 writeCode
 
-Extend application from Exercise 2 to add the following:-
+Extend  application from Exercise 2 to add the following:-
 
 - send JWT token in response to client evert time a user registers or logs in successfully
 
