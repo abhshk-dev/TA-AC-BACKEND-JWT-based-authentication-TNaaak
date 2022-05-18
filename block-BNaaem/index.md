@@ -1,6 +1,6 @@
 writeCode
 
-Modify book-store app from APIs basics chapter to
+Modify book-store app  from APIs basics chapter to
 
 - add login/registration for users using JWT tokens
 
